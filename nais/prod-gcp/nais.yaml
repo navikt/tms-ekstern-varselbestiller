@@ -41,5 +41,5 @@ spec:
     - name: VARSEL_TOPIC
       value: min-side.brukervarsel-v1
     - name: BACKDOOR_ENABLED
-      value: "false"
+      value: "true"
 
